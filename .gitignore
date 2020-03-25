@@ -49,3 +49,4 @@ buildNumber.properties
 target/classes/application.properties
 target/generated-sources/
 target/generated-test-sources/
+
